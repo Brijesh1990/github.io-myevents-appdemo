@@ -1,0 +1,52 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+.main-app
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.my-app
+{
+width: 50%;
+height: auto;
+margin: 5px;
+padding: 40px;
+text-align: center;
+}
+.my-app h1 
+{
+    font-size: 50px;
+    color: blue;
+    text-decoration: underline;
+}
+.my-app img 
+{
+width: 350px;
+height: 350px;
+border-radius: 50%;
+}
+.my-app-demo
+{
+width: 50%;
+height: auto;
+margin: 45px;
+padding: 60px;
+
+}
+.my-app-demo button 
+{
+    padding: 10px;
+    margin: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    width: 350px;
+}
